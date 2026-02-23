@@ -22,13 +22,6 @@ The course curriculum covers the fundamental pillars of Data Science, including:
 
 ---
 
-## 📂 Repository Structure
-The exercises are organized by week to demonstrate a clear progression of skills:
-* `Week_02/`: (Current) Boolean logic, spatial validation, and data filtering.
-* `Week_03/` to `Week_12/`: (Upcoming) DataFrames, Statistical Simulations, and Final Projects.
-
----
-
 ## 🏛️ Academic Integrity
 This repository is intended for showcase and personal reference purposes only. If you are a UofT student currently enrolled in this course, please be advised that copying any code from this repository for graded assignments is a violation of the **University’s Code of Behaviour on Academic Matters**. Always prioritize your own learning and academic honesty.
 
