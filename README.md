@@ -5,8 +5,6 @@ This repository serves as a comprehensive portfolio of my coursework, laboratory
 ## 📌 Project Overview
 The goal of this repository is to document my learning journey as I explore the intersection of **Computer Science** and **Statistical Inference**. The contents focus on using computational thinking to solve real-world problems through data analysis.
 
-> **Current Status:** 🚧 Work in Progress (Week 2)  
-> This repository is updated weekly as the curriculum progresses through more advanced data science concepts.
 
 ## 🎓 Academic Context
 The course curriculum covers the fundamental pillars of Data Science, including:
